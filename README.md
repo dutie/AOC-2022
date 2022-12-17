@@ -20,4 +20,8 @@ Training my declarative languages (Prolog, Haskell).
 
 ## Personnal Feedback
 
-### [Day 01](./aoc1.hs):
+### Day 01:
+#### [Haskell](./haskell/aoc1.*):
+Hard to load in the data, everything else was pretty easy.
+#### [Prolog](./prolog/aoc1.*):
+No issues found.
